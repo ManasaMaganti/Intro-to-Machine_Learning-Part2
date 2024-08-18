@@ -20,7 +20,7 @@ The following Problems are located in one Python notebook:
 7. The Reuters corpus
 8. Association rule mining
 
-The "Problem Image classification with neural networks" is located in another Notebook due to it being done on Google Collab 
+The Problem "Image classification with neural networks" is located in another Notebook due to it being done on Google Collab 
    
 
 
