@@ -1,6 +1,6 @@
 # General Note
 
-Part2_1-7 Consists of the following problems: 
+Part2_1-8 Consists of the following problems: 
 
 1. Probability Practice
 2. Wrangling the Billboard Top 100
