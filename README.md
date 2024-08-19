@@ -1,4 +1,4 @@
-# Intro-to-Machine-Learning-
+# Intro-to-Machine-Learning
 ML Part 2: Take-home Exercises 
 
 This Repo consists of all the exercises for ML Part 2 which is done for the Machine Learning Course Part of the UT-Austin MSBA Curriculum. 
