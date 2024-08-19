@@ -21,7 +21,7 @@ The following Problems are located in one Python notebook:
 8. Association rule mining
 
 The Problem "Image classification with neural networks" is located in another Notebook due to it being done on Google Collab. 
-This was done for computing reasons
+This was done for computing reasons and is uploaded as a separate notebook 
    
 
 
