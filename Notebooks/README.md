@@ -10,3 +10,5 @@ Part2_1-7 Consists of the following problems:
 6. Market segmentation
 7. The Reuters corpus
 8. Association rule mining
+
+Image_classification_with_neural_networks consists the final problem 
